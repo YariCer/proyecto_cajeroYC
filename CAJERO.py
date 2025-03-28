@@ -42,7 +42,7 @@ while True:
     try:
         seleccion = int(input(f'¿Usted quién es?: {str_nombre}\n105: SALIR\n'))
     except:
-        print('Selección inválida')
+        print('Selección invlida')
         continue
  
  
